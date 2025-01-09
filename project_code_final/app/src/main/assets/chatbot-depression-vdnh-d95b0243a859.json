@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-depression-vdnh",
+  "private_key_id": "d95b0243a859a89449a950f0bc1891975a587af4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG7fjmnj8Dq3Fz\nABkZ1zgr3PLl/rlhFls8R8vsBveub4rbUZbs9AK0bHlQCHpJZ/Sfk2EkF+SaDAIa\nHK4uuPtzJvjA0bgJ4cktR56hvFgLUE8sQvrLSXT3j+S6SLN4J+auVye4N7ZRoeRm\nd/Do80ftYkvHcuIGXcdAXrc10smXRLE1+CkON2lOplYEyFIw6RCpnzDE77ugB2Om\npG0IFixyLDiUqf7gZWomd7W3Ml5ZPzqYlhUyU599fz/psGolnp1llY6EWzla9YQo\ndDBkO8D0fsVfRip0sKrXK6LoRSr3EKSve/dMS5CtJMGDeu1fhs/lhpzKYqmqFJqO\ncoIj7BUHAgMBAAECggEAGFq3H8jc7x6Ut58Z85txQZF93WGXoYbCqbkigqWBukXm\nqp4tC5p+IEetfHplOkpzXPwGpwwTzTZOJZNAUfEMu9bYGocycGdHoXcEuUldQBlX\ncBRNLwkxvENOHe5bpojACbUa5EdR12GqHE9v2505P5tKqsLqYBwoEj3mUT0auB2V\n5Z0UK2Ue5tsBeR+a50k5TP+/VNdIM0hDnQa1j7UuhxajLqrmOpHxQt08d+7I8E+j\noIWTsiO+piqefpIK9iz02JJxWVPcnU4BlbSwF57Fb2HNjCGP3CvcEPUIjBpyQ91+\nBAMdd3fqe2BOY22bsNzo8e7+30ggX703V9E1KCeliQKBgQD0A85ThXe1QRVxEHDK\nThk+F1rJD41jdIS3BJE6lnN9aayJtbZT0cr4VDVR/UEHcHoATPAg/TWgnk5lB9Po\nBJ2s0BIefYRhieeiik3WaNLmZIojVf7KzHn0aKpBH0cR7XeaMOmZj68hiWvbFpgj\nShF9GBvkLiY6XY/c9sn9tid6zwKBgQDQs0Xe5kXYAxqLIlkoPASHaLUu6Zxxxc9x\ntXrLPuWRVfZBDkQnsyufoQMXxJ+NRkTvPy6ua+sINQ7ajqH1kyam/cYfzkM/F4gF\npi52ThVGBIyrKd4ZZFunCvBN0sm6VGjqB5bNQzILU8/Q+hI/BXApJ1zQ8ijjH3rc\n7F4pGfjwSQKBgQDCeeYPGuh1RRHZssix89yaZ/KrHAILqem8E5/Lme0hnv8sIe7W\njvW9RR/Z4IXbcAFMDAW1xRjgkkrYqoxw9nzUJmDKfC7trgM2wBOZNqIfjTGrR/Zx\nmtX3vRM0I8F4wFH6SdFj2egySlvzmOZX+chGctiH22AMVFU8PlRuKKb+cQKBgEG3\nwg+/mUy9JXWcmlCmHZL6MNuV6pKVBI684+7uXmHWnNW9hU6vB9SbYhrw6oEVGI3x\n6mQ4TWlnM8c01OE8thYtoV7Ql7JdWZLV0pmkWuSSeC1J4MtEI+xE8IjBEI7hF6xi\nOWVnfHG+sZkPtgEsWDZNU9fj+WYTup+ourncmNwpAoGAI3Y9nTEgN7MhlVVJgXm/\n44y8lsJqYQP0r+IKR2rGSgHXLXOomR44Kxz6NNzi2t9uDgDoRpUjhoTzvUFxBWTB\nRekjbXOBWlv8JuzM2a9efiUlogwgoMzNcLp6/qWAnDJN1oEOhIvcA3ditRbp8X3c\nnrAnxj5/n074IDOzkG2YITA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "depression-chatbot-access@chatbot-depression-vdnh.iam.gserviceaccount.com",
+  "client_id": "110673017339594263408",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/depression-chatbot-access%40chatbot-depression-vdnh.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- สีพื้น -->
+    <corners android:radius="8dp" /> <!-- มุมโค้ง -->
+    <stroke
+        android:width="2dp"
+        android:color="#CCCCCC" /> <!-- ขอบ -->
+</shape>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EMOBOT</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="select">Select</string>
+
+    <string-array name="filter_options">
+        <item>1 week</item>
+        <item>2 weeks</item>
+        <item>All</item>
+    </string-array>
+
+
+</resources>

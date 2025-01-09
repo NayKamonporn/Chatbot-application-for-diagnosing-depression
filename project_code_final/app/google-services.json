@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "694959364116",
+    "firebase_url": "https://depressioncs403-b2a53-default-rtdb.firebaseio.com",
+    "project_id": "depressioncs403-b2a53",
+    "storage_bucket": "depressioncs403-b2a53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694959364116:android:d6b463e890eedaa58baf01",
+        "android_client_info": {
+          "package_name": "com.example.depressioncs403"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHhLKXUA41Et-i0Yupbaob6mX8VBOCDXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
