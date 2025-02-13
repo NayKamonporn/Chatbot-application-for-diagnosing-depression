@@ -22,23 +22,63 @@ The application also features a Mood Tracker and Emotional State Monitor, enabli
 - Android Studio 
 
 # How to install?
--   **Clone the repository**  
-    Open your terminal or command prompt and run the following command to clone the repository:
-    
-    `git clone https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression.git` 
-    
--   **Open the project in Android Studio**
-    -   Launch Android Studio.
-    -   Select **"Open an Existing Project"** from the welcome screen.
-    -   Navigate to the cloned repository folder and open it.
-    
--   **Set up the environment**
-    -   Ensure you have the correct version of **Android Studio** and **Gradle** installed.
-    -   Sync the Gradle files by clicking on **"Sync Now"** in the top right corner of Android Studio.
-    
--   **Run the project**
-    -   Connect an Android device to your computer or use an emulator.
-    -   Select your device/emulator from the **"Run/Debug Configurations"** dropdown.
+**Step-by-Step: Clone a GitHub Repository in Android Studio**
+
+-Open Android Studio
+   Open Android Studio on your computer.
+
+- Go to "Get from Version Control"
+   1. On the Welcome Screen, click "Get from Version Control".
+   2. If you are in a current project, go to File > New > Project from Version Control.
+
+- Select "Git"
+   In the "Version Control" window, select Git from the drop-down menu.
+
+- Enter the Repository URL
+   In the URL field, enter the URL of the GitHub repository.
+  ```sh
+   https://github.com/ComSciThammasatU/2567-1-cs403-final-submission-66-2_14_tpb-s1-1.git
+
+   ```
+
+- Choose the Directory
+   In the Directory field, select or create a folder on your computer where you want to store your project.
+  
+- Click "Clone"
+   Click "Clone" to start the process of cloning the repository into the selected folder.
+
+- Open the Project
+   1. Open the project, select File > Open, and Open file from specific directory.
+   2. Choose folder "project_code_final"
+  
+- Sync Gradle
+- Run the Project
+
+# How to run Android Studio projects on Emulator and Mobile device
+**Running the project on the Emulator**
+
+- Open Android Studio and go to Tools > Device Manager
+  
+- Click "Create Device":
+   1. Select the device
+   2. Select the Android version (API Level)
+      
+- Press "Finish" to create the Emulator
+  
+- Start the Emulator by clicking the "Run" button next to the device in the Device Manager
+- Run the project on the Emulator
+
+**Running the project on mobile**
+
+- Connect your mobile to Android Studio
+  
+- Connect your mobile to your computer via USB cable
+  
+- On your mobile, a pop-up will appear asking "Allow USB debugging?" Press "Allow"
+  
+- In Android Studio, go to the Run menu > Select Device:
+  
+- Select the mobile device listed in the list
 
 
 # Preview
