@@ -81,18 +81,12 @@ The application also features a Mood Tracker and Emotional State Monitor, enabli
 
 
 # Preview
-<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/Screenshot/SignupPage.jpg?raw=true" 
-alt="Splash Screen" width="98" height="200" />
-<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/Screenshot/LoginPage.jpg?raw=true" 
-alt="Splash Screen" width="98" height="200" />
-<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/Screenshot/HomePage.jpg?raw=true" 
-alt="Splash Screen" width="98" height="200" />
-<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/Screenshot/ChatPage.jpg?raw=true" 
-alt="Splash Screen" width="98" height="200" />
-<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/Screenshot/MoodTrackPage.jpg?raw=true" 
-alt="Splash Screen" width="98" height="200" />
-<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/Screenshot/PiechartPage.jpg?raw=true" 
-alt="Splash Screen" width="98" height="200" />
+<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/screenshot/SignupPage.jpg?raw=true" alt="Splash Screen" width="98" height="200" />
+<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/screenshot/LoginPage.jpg?raw=true" alt="Splash Screen" width="98" height="200" />
+<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/screenshot/HomePage.jpg?raw=true" alt="Splash Screen" width="98" height="200" />
+<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/screenshot/ChatPage.jpg?raw=true" alt="Splash Screen" width="98" height="200" />
+<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/screenshot/MoodTrackPage.jpg?raw=true" alt="Splash Screen" width="98" height="200" />
+<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/screenshot/PiechartPage.jpg?raw=true" alt="Splash Screen" width="98" height="200" />
 
 
 
