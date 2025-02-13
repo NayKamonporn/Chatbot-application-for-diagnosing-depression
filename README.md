@@ -1,5 +1,5 @@
 # CHATBOT APPLICATION FOR DIAGNOSING DEPRESSION
-
+![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=00ADB5&style=for-the-badge)
    
 # About
 A chatbot application designed to diagnose or assess the severity of depression and provide tailored emotional management guidance through seamless conversations. Upon initiating a chat, the AI evaluates the user’s level of depression by analyzing the dialogue and subsequently offers personalized strategies for emotional management, including physical therapy techniques.
