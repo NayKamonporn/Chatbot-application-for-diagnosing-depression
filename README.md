@@ -81,8 +81,6 @@ The application also features a Mood Tracker and Emotional State Monitor, enabli
 
 
 # Preview
-<img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/screenshot/SignupPage.jpg?raw=true" 
-alt="Splash Screen" width="98" height="200" />
 <img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/screenshot/LoginPage.jpg?raw=true" 
 alt="Splash Screen" width="98" height="200" />
 <img src="https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression/blob/main/screenshot/HomePage.jpg?raw=true" 
