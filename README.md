@@ -37,8 +37,7 @@ The application also features a Mood Tracker and Emotional State Monitor, enabli
 - Enter the Repository URL
    In the URL field, enter the URL of the GitHub repository.
   ```sh
-   https://github.com/ComSciThammasatU/2567-1-cs403-final-submission-66-2_14_tpb-s1-1.git
-
+   https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression.git
    ```
 
 - Choose the Directory
