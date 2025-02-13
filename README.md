@@ -25,7 +25,7 @@ The application also features a Mood Tracker and Emotional State Monitor, enabli
 -   **Clone the repository**  
     Open your terminal or command prompt and run the following command to clone the repository:
     
-    `git clone https://github.com/ComSciThammasatU/2567-1-cs403-final-submission-66-2_14_tpb-s1.git` 
+    `git clone https://github.com/NayKamonporn/Chatbot-application-for-diagnosing-depression.git` 
     
 -   **Open the project in Android Studio**
     -   Launch Android Studio.
