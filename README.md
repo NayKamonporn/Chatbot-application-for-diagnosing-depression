@@ -1,16 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/P00oz-zc)
-**<ins>Note</ins>: Students must update this `README.md` file to be an installation manual or a README file for their own CS403 projects.**
-
-**รหัสโครงงาน:**  66-2_14_tpb-s1
-
-**ชื่อโครงงาน (ไทย):** แอปพลิเคชันแชทบอท เพื่อการวินิจฉัยและบรรเทาโรคซึมเศร้า
-
-**Project Title (Eng):** CHATBOT APPLICATION FOR DIAGNOSING AND MITIGATING DEPRESSION
-
-**อาจารย์ที่ปรึกษาโครงงาน:** ผู้ช่วยศาสตราจารย์ ดร. ฐาปนา บุญชู
-
-**ผู้จัดทำโครงงาน:** 
-1. นางสาวกมลพร แก้วมั่น  6309650205  kamonporn.kaew@dome.tu.ac.th
+# CHATBOT APPLICATION FOR DIAGNOSING DEPRESSION
 
    
 # About
